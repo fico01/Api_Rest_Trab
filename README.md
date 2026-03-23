@@ -1,1 +1,1 @@
-MétodoRotaO que fazGET/api/produtosLista todos os produtos (Aceita filtros por nome/categoria)GET/api/produtos/:idBusca um único produto pelo IDPOST/api/produtosCadastra um novo produto (Envia JSON no Body)PUT/api/produtos/:idAtualiza um produto existenteDELETE/api/produtos/:idRemove um produto do sistema
+a
